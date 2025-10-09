@@ -1,2 +1,4 @@
 youshandefeiyang/allinone
 containrrr/watchtower
+mzz2017/v2raya
+homeassistant/home-assistant
